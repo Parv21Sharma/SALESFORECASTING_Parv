@@ -1,5 +1,9 @@
 # 📊 End-to-End Sales Forecasting & Demand Intelligence System
 
+## 🌐 Live Demo
+
+**Streamlit App:** https://salesforecastingparv-cdh5hndrhszsghmpxj5n97.streamlit.app/
+
 ## Overview
 
 This project was developed as part of an AI & Data Science Internship (Week 3 & Week 4). It focuses on building an intelligent sales forecasting and demand intelligence system using historical sales data.
